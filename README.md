@@ -1,5 +1,7 @@
 # Today I Learned
-> Stuff I learned and when I learned it.
+
+Stuff I learned and when I learned it.
+
 ---
 
 ### Jan 24 2017
